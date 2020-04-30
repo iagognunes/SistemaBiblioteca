@@ -1,0 +1,6 @@
+O cliente deve visualizar os livros disponiveis
+o cliente deve visualizar as informações dos livros
+O cliente deve emprestar no máximo quatro livros
+O cliente deve devolver o livro na data estipulada
+O sistema não deve deixar mais de um mesmo livro ser emprestado
+As secretárias podem visualizar os livros emprestados, por quem foram emprestados e a data de entrega
